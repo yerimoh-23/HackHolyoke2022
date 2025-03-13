@@ -1,8 +1,9 @@
-# HackHolyoke2022
-#### Mental Health Screeners and Resources
-https://yerimoh-23.github.io/HackHolyoke2022/
+# Mental Health Screeners and Resources
+#### An easy and accessible way to quantify the severity of your own symptoms, and to see what steps to take next. Provides depression and anxiety screeners, FAQs, and resources.
 
-* Designed and developed a responsive HTML/CSS/JavaScript website within 24 hours that conducts depression and anxiety screening tests, generating personalized recommendations based on user input.
+#### Try it out! https://yerimoh-23.github.io/HackHolyoke2022/
+
+* Designed and developed a responsive HTML/CSS/JavaScript website within 24 hours.
 * Awarded "Best Remote Health Hack" at HackHolyoke for innovation and impact in digital health solutions.
 
 
@@ -16,7 +17,7 @@ Users can read informational materials under the "Resources" or "Frequently Aske
 The landing page, "Resources" page, and "Frequently Asked Questions" page were all constructed with HTML and CSS by Yewon and Grace. The screener surveys for depression and anxiety were constructed with HTML, CSS, and JavaScript with help from Yerim and Sky.
 
 ### Challenges we ran into
-Coding is hard.
+Coding is hard and 24 hours are short.
 
 ### Accomplishments that we're proud of
 Our product is functional! It's not pretty, but it is very functional.
@@ -28,3 +29,6 @@ Yewon became a full-stack developer overnight, this was Grace's first time using
 Making the site more accessible for users with vision disabilities, translations into other languages, and ability to save results to discuss with clinician.
 
 ### Built With
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
